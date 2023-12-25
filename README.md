@@ -22,8 +22,6 @@ I am a software developer who has developed himself mostly in the frontend part.
   <p align="left">
                       <a href="https://discord.com/users/sterbef4ll" target="_blank" rel="noreferrer">
                     <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="undefined" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
                     </picture>
                     </a>
