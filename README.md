@@ -9,7 +9,8 @@ I am a software developer who has developed himself mostly in the frontend part.
 *   🌍  I'm based in İzmir / Turkey
 *   🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/furkancansimsek/)
 *   ✉️  You can contact me at [frkncnsmsk@gmail.com](mailto:frkncnsmsk@gmail.com)
-*   🧠  I'm learning Angular<a href="https://www.github.com/furkancansimsek" target="_blank" rel="noreferrer"><img
+*   🧠  I'm learning Angular
+  <a href="https://www.github.com/furkancansimsek" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/furkancansimsek?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/sterbefall" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/sterbefall?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
                   <a href="https://www.twitch.tv/sterbef4ll" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/sterbef4ll?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
